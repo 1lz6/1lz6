@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @1lz6
+- 👀 I’m interested in travelling, graphic design and web development
+- 🌱 I’m currently learning HTML, CSS and Javascript, purchase a course for Python as well.
+- 📫 How to reach me: ilze.krasnobaja@gmail.com
